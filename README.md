@@ -1,4 +1,3 @@
-fork de customizações
 
 ![MapOS](https://raw.githubusercontent.com/RamonSilva20/mapos/master/assets/img/logo.png)
 
